@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Research group
+        Research group <br>
         Chain fluctuations
       image:
         filename: welcome.jpg
