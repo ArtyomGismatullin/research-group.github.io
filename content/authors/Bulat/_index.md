@@ -14,12 +14,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Teamate
+role: Student
 
 # Organizations/Affiliations
 organizations:
   - name: RUDN
-    url: ''
+    url: 'https://www.rudn.ru/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: I have been involved in sports and 3D visualization since childhood.
@@ -56,7 +56,6 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
 ---
 
 If you ask yourself whether you need to be strong or smart, know that it is the same as asking: “To survive, you only need to eat or only drink.”
