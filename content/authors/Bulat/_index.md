@@ -31,32 +31,17 @@ interests:
 
 education:
   courses:
-    - course: 1
+    - course: Bachelor's degree. Applied Computer Science
       institution: RUDN
-      year: 2022
-    - course: 2
-      institution: RUDN
-      year: 2023
-    - course: 3
-      institution: RUDN
-      year: 2024
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: "-"
-    icon_pack: f"-"
-    link: "-"
-  - icon: "-"
-    icon_pack: f"-"
-    link: "-"
-  - icon: "-"
-    icon_pack: "-"
-    link: "-"
-  - icon: "-"
-    icon_pack: "-"
+  - icon: github
+    icon_pack: fab
     link: https://github.com/bulatisaev
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
