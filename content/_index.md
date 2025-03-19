@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Research group
+        Chain fluctuations
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Our group in this task is invited to investigate what conditions are necessary to establish equilibrium, how the approach to equilibrium occurs, and what interesting phenomena are possible in the simplest one-dimensional case.
   
   - block: collection
     content:
