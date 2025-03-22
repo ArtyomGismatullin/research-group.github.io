@@ -33,11 +33,11 @@ links:
   link: https://github.com/daBorovikov/study_2024-2025_mathmod
 url_pdf: https://disk.yandex.ru/i/9aYlEYLSYZ4FEw
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
+#url_dataset: '#'
+#url_poster: '#'
 url_project: ''
 url_slides: ''
-url_source: '#'
+url_source: 'https://disk.yandex.ru/i/1zCv4VZUZ0fr4g'
 url_video: 'https://rutube.ru/video/private/3bafd7b3ae7888790f9bf919f33856d3/?p=fdtwcqBuCpg3OX7mNvfFvA'
 
 # Featured image
