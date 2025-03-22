@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: команда
+  - block: people
     content:
       title: Знакомство с группой
       # Choose which groups/teams of users to display.
