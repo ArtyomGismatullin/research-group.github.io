@@ -5,7 +5,7 @@
 
 main:
   - name: Tour
-    url: content/en/tour
+    url: "#content/en/tour"
     weight: 10
   - name: News
     url: content/en/post
