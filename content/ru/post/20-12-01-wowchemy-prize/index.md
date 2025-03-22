@@ -1,14 +1,36 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: Студенты ВШУ РУДН победили в Young Hospitality Summit — 2025 в Швейцарии
+date: 2025-03-21
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Студенты ВШУ представили РУДН на Young Hospitality Summit — 2025 в швейцарском городе Лозанна. Саммит объединил участников из более чем 70 университетов мира.
 
-<!--more-->
+Young Hospitality Summit (YHS) — саммит для молодых специалистов индустрии гостеприимства, где участники не только получают знания от мировых лидеров гостиничного бизнеса, но и работают над актуальными вызовами в сфере туризма. Мероприятие прошло в ведущей школе гостиничного бизнеса EHL Hospitality Business & Hotel Management School. Она занимает 1 место в рейтинге QS World University Rankings by Subject 2025 в категории Hospitality & Leisure Management.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Проверить свои профессиональные знания и навыки на Young Hospitality Summit — 2025 отправились студенты направления «Гостиничное дело» РУДН Дмитрий Чиналиев и Наталья Златовчена.
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+Всех студентов разделили на 12 интернациональных команд по 6 человек в каждой. Деление проводилось таким образом, что в одной команде не могли быть студенты из одного университета. Каждая группа разрабатывала стратегические решения для ключевых вызовов туристской индустрии:
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+Избыточный туризм на Греческих островах, в Венеции и Барселоне;
+Продвижение винного туризма Бордо во Франции для поколения Z с креативным подходом.
+Участники получили задания за 10 дней до начала саммита. Это время ушло на сбор информации и знакомство с коллегами по команде. Также у студентов было 3 дня на решение основной задачи.
+
+Так, команда Дмитрия Чиналиева разрабатывала стратегию управления турпотоком в Венеции. Задача заключалась в том, чтобы распределить туристов по разным локациям и снизить нагрузку на основные достопримечательности города.
+
+Студенты предложили разработать приложение для трех основных субъектов: правительства, местного бизнеса и туристов. По задумке авторов, основными «фишками» приложения станут:
+
+автоматизация сбора туристического налога;
+отображение скопления людей в реальном времени на карте города (тепловая карта);
+построение идеального маршрута для туриста на основе ИИ во избежание избыточного скопления туристов в одном месте;
+механизм сбора данных;
+рекомендации по посещению локаций на основе ИИ.
+Проект принес команде Дмитрия 2 место.
+
+С победой из Швейцарии вернулась и Наталья Златовчена. Она вместе с командой разработала проект по развитию винного туризма в Бордо, который жюри признало лучшим.
+
+Студентам нужно было придумать стратегию по продвижению региона Бордо, учитывая падение спроса на потребление вина у молодежи. Команда разрабатывала идею для одного из трех шато из Vignobles Cruse-Lorenzetti. Авторы предложили добавить на бутылки QR-коды, которые будут сообщать факты о конкретном вине, историю его происхождение и информацию о том, с чем его лучше всего сочетать.
+
+При подготовке к саммиту студентам помогали руководители: Ольга Зевеке, к.э.н., доцент кафедры туризма и сервиса ВШУ, и Камо Чилингарян, к.ф.н., заведующий кафедрой иностранных языков ВШУ.
+
+Поздравляем наших студентов и желаем больше профессиональных побед!
+
