@@ -5,38 +5,38 @@
 
 main:
   - name: Tour
-    url: "#content/en/tour"
+    url: content/en/tour
     weight: 10
   - name: News
-    url: "#content/en/post"
+    url: content/en/post
     weight: 20
   - name: People
-    url: "#content/en/people"
+    url: content/en/people
     weight: 30
   - name: Events
-    url: "#content/en/event"
+    url: content/en/event
     weight: 40
   - name: Publications
-    url: "#content/en/publication"
+    url: content/en/publication
     weight: 50
   - name: Contact
-    url: "#content/en/contact"
+    url: content/en/contact
     weight: 60
   - name: Навигация
-    url: "#content/ru/tour"
+    url: content/ru/tour
     weight: 10
   - name: Новости
-    url: "#content/ru/post"
+    url: content/ru/post
     weight: 20
   - name: Команда
-    url: "#content/ru/people"
+    url: content/ru/people
     weight: 30
   - name: События
-    url: "#content/ru/event"
+    url: content/ru/event
     weight: 40
   - name: Публикации
-    url: "#content/ru/publication"
+    url: content/ru/publication
     weight: 50
   - name: Контакты
-    url: "#content/ru/contact"
+    url: content/ru/contact
     weight: 60
