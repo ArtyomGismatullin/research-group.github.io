@@ -13,17 +13,17 @@ address:
   country: Москва
 
 summary: Проектная деятельность
-abstract: 'Наша команда в течение следующего полугодия будет активно заниматься проектной деятельностью по теме "Колебания цепочек." Нам предстоит пройти следующие этапы защиты проекта: <br> 1. Модель. Презентация по научной проблеме. Теоретическое описание задачи. <br> 2. Описание модели. Алгоритмы. Презентация по алгоритмам решения задачи. <br> 3. Комплексы программ. Описание программной реализации проекта. <br> 4. Защита проекта. Коллективное обсуждение результата проекта, самооценка деятельности.'
+abstract: 'Наша команда в течение следующего полугодия будет активно заниматься проектной деятельностью по теме "Колебания цепочек." <br><br>Нам предстоит пройти следующие этапы защиты проекта: <br> 1. Модель. Презентация по научной проблеме. Теоретическое описание задачи. <br><br> 2. Описание модели. Алгоритмы. Презентация по алгоритмам решения задачи. <br><br> 3. Комплексы программ. Описание программной реализации проекта. <br><br> 4. Защита проекта. Коллективное обсуждение результата проекта, самооценка деятельности.'
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2025-03-22T13:00:00Z'
+date_end: '2025-05-17T12:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-03-22T00:00:00Z'
 
 authors: []
 tags: []
@@ -54,11 +54,3 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.
