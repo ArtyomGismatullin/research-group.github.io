@@ -1,19 +1,20 @@
 ---
-title: Example Event
+title: Проект "Колебания цепочек"
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Выступление с проектом
+# event_url:
 
-location: Wowchemy HQ
+location: RUDN
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Ул. Орджоникидзе, д.3
+  city: Москва
+  region: Москва
+  postcode: '115419'
+  country: Москва
 
-summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Проектная деятельность
+abstract: 'Наша команда в течение следующего полугодия будет активно заниматься проектной деятельностью по теме "Колебания цепочек." Нам предстоит пройти следующие этапы защиты проекта: <br> 1. Модель. Презентация по научной проблеме. Теоретическое описание задачи. <br> 2. Описание модели. Алгоритмы. Презентация по алгоритмам решения задачи. <br> 3. Комплексы программ. Описание программной реализации проекта. <br> 4. Защита проекта. Коллективное обсуждение результата проекта, самооценка деятельности.'
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
