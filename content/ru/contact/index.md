@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Контакты
 date: 2022-10-24
 
 type: landing
@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: Contact
     content:
-      title: Contact
+      title: Контакты
       text: |-
         Вы можете связаться с нами, чтобы сделать проект еще лучше.
       email: 1132226530@pfur.ru

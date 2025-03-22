@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Research group
+title: Исследовательская группа
 date: 2022-10-24
 type: landing
 
@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Исследование <br>
+        Исследование на тему: <br>
         Колебания цепочек
       image:
         filename: welcome.jpg
@@ -19,7 +19,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: Последние новости
       subtitle:
       text:
       count: 5
@@ -58,7 +58,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Последние препринты
       text: ""
       count: 5
       filters:

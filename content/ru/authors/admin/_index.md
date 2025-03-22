@@ -55,7 +55,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Исследователи
 ---
 
 Артём Гисматуллин - студент Российского университета дружбы народов. Его интересы лежат в области разработки на Python, баз данных и интеллектуальных игр.
