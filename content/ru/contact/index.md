@@ -5,9 +5,9 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: contact
+  - block: Контакты
     content:
-      title: Contact
+      title: Контакты
       text: |-
         Вы можете связаться с нами, чтобы сделать проект еще лучше.
       email: 1132226530@pfur.ru

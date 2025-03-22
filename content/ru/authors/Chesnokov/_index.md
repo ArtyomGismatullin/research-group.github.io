@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Chesnokov Artemy
+title: Чесноков Артемий
 
 # Full name (for SEO)
-first_name: Artemy
-last_name: Chesnokov
+first_name: Артемий
+last_name: Чесноков
 
 # Username (this should match the folder name)
 authors:
@@ -14,24 +14,24 @@ authors:
 superuser: false
 
 # Role/position
-role: Student
+role: Студент
 
 # Organizations/Affiliations
 organizations:
-  - name: Peoples' Friendship University of Russia
+  - name: RUDN
     url: 'https://www.rudn.ru/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include network technologies, data transfer methods in WWW.
+bio: Мои научные интересы включают сетевые технологии, методы передачи данных в WWW.
 
 interests:
-  - Artificial Intelligence
+  - Искусственный интеллект
   - SPA/PWA/WebDev
 
 education:
   courses:
-    - course: direction of applied informatics
-      institution: Peoples' Friendship University of Russia
+    - course: Б.Н. по Прикладной информатике
+      institution: RUDN
       year: 2026
 
 # Social/Academic Networking
@@ -57,7 +57,7 @@ email: '1132222012@pfur.ru'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Исследователи
 ---
 
-Artemy Chesnokov is an outstanding student of the Faculty of Physics and Mathematics of Natural Sciences, which is located at the Peoples’ Friendship University of Russia. His research interests include the creation of efficient algorithms for solving problems in the field of analytical geometry. Artemy is also interested in neural networks and machine learning.
+Артемий Чесноков - выдающийся студент физико-математического факультета естественных наук Российского университета дружбы народов. В сферу его научных интересов входит создание эффективных алгоритмов для решения задач в области аналитической геометрии. Артемий также интересуется нейронными сетями и машинным обучением.

@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Research group
+title: Исследовательская группа
 date: 2022-10-24
 type: landing
 
@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Research group <br>
-        Chain fluctuations
+        Исследование <br>
+        Колебания цепочек
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        Our group in this task is invited to investigate what conditions are necessary to establish equilibrium, how the approach to equilibrium occurs, and what interesting phenomena are possible in the simplest one-dimensional case.
+        Нашей группе в этой задаче предлагается исследовать, какие условия необходимы для установления равновесия, как происходит приближение к равновесию и какие интересные явления возможны в простейшем одномерном случае.
   
   - block: collection
     content:

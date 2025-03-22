@@ -1,5 +1,5 @@
 ---
-title: Tour
+title: Навигация
 date: 2022-10-24
 
 type: landing
@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Добро пожаловать в нашу группу!
+        content: Взгляните на то, над чем мы работаем...
         align: center
         background:
           image:

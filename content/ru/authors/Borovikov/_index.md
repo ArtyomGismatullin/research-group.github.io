@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Borovikov Daniil Alexandrovich
+title: Боровиков Даниил
 
 # Full name (for SEO)
-first_name: Daniil
-last_name: Borovikov
+first_name: Даниил
+last_name: Боровиков
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Student
+role: Студент
 
 # Organizations/Affiliations
 organizations:
@@ -22,17 +22,17 @@ organizations:
     url: 'https://www.rudn.ru/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include web programming and neural networks.
+bio: Мои научные интересы включают веб-программирование и нейронные сети.
 
 interests:
-  - Artificial Intelligence
-  - English
-  - Model aercrafting
+  - Искусственный интеллект
+  - Английский язык
+  - Авиамоделизм
 
 education:
   courses:
-    - course: Faculty of Physics and Mathematics in Applied Programming
-      institution: Peoples' Friendship University of Russia
+    - course: Б.Н. по Прикладной информатике
+      institution: RUDN
       year: 2026
     
 # Social/Academic Networking
@@ -58,13 +58,11 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Исследователи
 ---
 
-Borovikov Daniil Aleksandrovich is a third-year student at the Peoples' Friendship University of Russia, studying at the Faculty of Physics, Mathematics and Natural Sciences in the Applied Informatics program. His professional and research interests cover a wide range of modern technologies, including web development, artificial intelligence and aircraft modeling.
+Боровиков Даниил Александрович - студент третьего курса Российского университета дружбы народов, обучающийся на факультете физики, математики и естественных наук по программе прикладной информатики. Его профессиональные и исследовательские интересы охватывают широкий спектр современных технологий, включая веб-разработку, искусственный интеллект и авиамоделирование.
 
-He actively studies advanced approaches to creating web applications, working with modern stack technologies and architectural solutions. In the field of artificial intelligence, he studies machine learning algorithms, neural networks and their practical application in various fields, such as automation, data analysis and computer vision.
+Он активно изучает передовые подходы к созданию веб-приложений, работает с современными стековыми технологиями и архитектурными решениями. В области искусственного интеллекта он изучает алгоритмы машинного обучения, нейронные сети и их практическое применение в различных областях, таких как автоматизация, анализ данных и компьютерное зрение.
 
-In addition to programming, Daniil is interested in aircraft modeling, studying aerodynamics, design and development of unmanned aerial vehicles. This combination of technical knowledge and creativity allows him to integrate skills from different fields and apply them in interdisciplinary projects.
-
-He strives for professional development by participating in hackathons, research projects and independent developments aimed at solving current technological problems.
+Помимо программирования, Даниил интересуется авиамоделированием, изучением аэродинамики, проектированием и разработкой беспилотных летательных аппаратов. Такое сочетание технических знаний и креативности позволяет ему интегрировать навыки из разных областей и применять их в междисциплинарных областях.

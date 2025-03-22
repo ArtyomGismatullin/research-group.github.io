@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Gismatullin Artem
+title: Гисматуллин Артём
 
 # Full Name (for SEO)
-first_name: Artem
-last_name: Gismatullin
+first_name: Артём
+last_name: Гисматуллин
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Student
+role: Студент
 
 # Organizations/Affiliations
 organizations:
@@ -18,14 +18,14 @@ organizations:
     url: 'https://www.rudn.ru/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include databases, Python development and intellectual games
+bio: Мои научные интересы включают базы данных, разработку на Python и интеллектуальные игры
 interests:
-  - Databases
-  - Python development
+  - Базы данных
+  - Разработка на Python
 
 education:
   courses:
-    - course: Bachelor's degree. Applied Computer Science
+    - course: Б.Н. по Прикладной информатике
       institution: RUDN
       year: 2026
 
@@ -55,7 +55,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Исследователи
 ---
 
-Artem Gismatullin is a student at the Peoples' Friendship University of Russia. His interests lie in the fields of Python development, databases and mind games.
+Артём Гисматуллин - студент Российского университета дружбы народов. Его интересы лежат в области разработки на Python, баз данных и интеллектуальных игр.

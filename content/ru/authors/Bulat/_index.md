@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Bulat Isaev
+title: Исаев Булат
 
 # Full name (for SEO)
-first_name: Bulat
-last_name: Isaev
+first_name: Булат
+last_name: Исаев
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Student
+role: Студент
 
 # Organizations/Affiliations
 organizations:
@@ -22,16 +22,16 @@ organizations:
     url: 'https://www.rudn.ru/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have been involved in sports and 3D visualization since childhood.
+bio: Я с детства увлекаюсь спортом и 3D-визуализацией.
 
 interests:
-  - Karate
-  - 3D-Modelling
-  - Programming
+  - Карате
+  - 3D-моделирование
+  - Программирование
 
 education:
   courses:
-    - course: Bachelor's degree. Applied Computer Science
+    - course: Б.Н. по Прикладной информатике
       institution: RUDN
       year: 2026
 
@@ -55,7 +55,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Исследователи
 ---
 
-If you ask yourself whether you need to be strong or smart, know that it is the same as asking: “To survive, you only need to eat or only drink.”
+Если вы спрашиваете себя, нужно ли вам быть сильным или умным, знайте, что это то же самое, что спросить: “Чтобы выжить, вам нужно только есть или только пить”.

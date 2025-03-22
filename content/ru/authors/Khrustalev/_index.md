@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Khrustalev Vlad Nikolaevich
+title: Хрусталев Влад
 
 # Full name (for SEO)
-first_name: Vlad
-last_name: Khrustalev
+first_name: Влад
+last_name: Хрусталев
 
 # Username (this should match the folder name)
 authors:
@@ -14,26 +14,26 @@ authors:
 superuser: false
 
 # Role/position
-role: Software Engineer
+role: Студент
 
 # Organizations/Affiliations
 organizations:
-  - name: RUDN University
+  - name: RUDN
     url: 'https://www.rudn.ru/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Passionate about backend development, cloud computing, and scalable architecture solutions.
+bio: Увлечен серверной разработкой, облачными вычислениями и масштабируемыми архитектурными решениями.
 
 interests:
-  - Distributed Systems
-  - Cloud Computing
-  - Backend Development
+  - Распределенные системы
+  - Облачные вычисления
+  - Разработка серверной части
 
 education:
   courses:
-    - course: Faculty of Physics and Mathematics in Applied Programming
-      institution: Peoples' Friendship University of Russia
-      year: 2021
+    - course: Б.Н. по Прикладной информатике
+      institution: RUDN
+      year: 2026
     
 # Social/Academic Networking
 social:
@@ -49,11 +49,11 @@ email: ''
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Researchers
+  - Исследователи
 ---
 
-Khrustalev Vlad Nikolaevich is a backend software engineer with a strong background in cloud computing and distributed systems. He graduated from the Peoples' Friendship University of Russia (PFUR), where he studied Computer Science.
+Хрусталев Влад Николаевич - инженер-программист с большим опытом работы в области облачных вычислений и распределенных систем. Он окончил Российский университет дружбы народов (РУДН), где изучал компьютерные науки.
 
-His expertise lies in designing and implementing microservices, optimizing system performance, and ensuring the reliability of cloud-based applications. Vlad actively works with technologies such as Kubernetes, Docker, and various cloud platforms like AWS and Google Cloud. He is also experienced in database optimization, API design, and backend infrastructure development.
+Его опыт заключается в разработке и внедрении микросервисов, оптимизации производительности системы и обеспечении надежности облачных приложений. Влад активно работает с такими технологиями, как Kubernetes, Docker и различными облачными платформами, такими как AWS и Google Cloud. Он также имеет опыт в оптимизации баз данных, разработке API и разработке серверной инфраструктуры.
 
-Beyond his professional activities, Vlad is passionate about open-source development, contributing to various projects, and participating in tech meetups. He is continuously improving his skills and exploring new technologies to build efficient and scalable software solutions.
+Помимо своей профессиональной деятельности, Влад увлечен разработкой с открытым исходным кодом, участвует в различных проектах и технических встречах. Он постоянно совершенствует свои навыки и изучает новые технологии для создания эффективных и масштабируемых программных решений.

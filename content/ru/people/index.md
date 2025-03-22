@@ -1,18 +1,18 @@
 ---
-title: People
+title: Команда
 date: 2022-10-24
 
 type: landing
 
 sections:
-  - block: people
+  - block: команда
     content:
-      title: Meet the Team
+      title: Знакомство с группой
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Principal Investigators
-          - Researchers
+          - Исследователи
           - Grad Students
           - Administration
           - Visitors
