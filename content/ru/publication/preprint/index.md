@@ -28,9 +28,9 @@ featured: false
 
 links:
 - name: GitHub source
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/daBorovikov/study_2024-2025_mathmod
+  icon: github
+  icon_pack: fab
+  link: https://github.com/daBorovikov/study_2024-2025_mathmod
 url_pdf: https://disk.yandex.ru/i/9aYlEYLSYZ4FEw
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '#'
