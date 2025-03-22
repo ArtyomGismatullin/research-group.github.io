@@ -55,7 +55,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Исследователи
+  - Researchers
 ---
 
 Если вы спрашиваете себя, нужно ли вам быть сильным или умным, знайте, что это то же самое, что спросить: “Чтобы выжить, вам нужно только есть или только пить”.
