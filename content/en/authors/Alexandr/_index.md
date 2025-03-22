@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Александр Аскеров
+title: Alexander Askerov
 
 # Full name (for SEO)
-first_name: Александр
-last_name: Аскеров
+first_name: Alexander
+last_name: Askerov
 
 # Username (this should match the folder name)
 authors:
@@ -14,25 +14,25 @@ authors:
 superuser: false
 
 # Role/position
-role: Студент
+role: Student
 
 # Organizations/Affiliations
 organizations:
-  - name: РУДН
+  - name: RUDN
     url: 'https://www.rudn.ru/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: У меня есть большой интерес к колонизации других планет, развитию и применению роботехники и генетики.
+bio: I have a great interest in the colonization of other planets, the development and application of robotics and genetics.
 
 interests:
-  - Аэрокосмонавтика
-  - Нанотехнологии
-  - Генетика
+  - Aerospace
+  - Nanotechnology
+  - Genetics
 
 education:
   courses:
-    - course: Б.Н. по Прикладной информатике
-      institution: Российский Университет Дружбы Народов
+    - course: Bachelor's degree. Applied Computer Science
+      institution: RUDN
       year: 2026
 
 # Social/Academic Networking
@@ -61,4 +61,4 @@ user_groups:
   - Researchers
 ---
 
-Александр Аскеров является студентом кафедры Теории Вероятностей и Кибербезопасности в РУДН. Его основные интересы включают в себя конструирование роботов и симуляции полётов космических кораблей. На данный момент занимается исследованиями в области Теории Массового Обслуживания.
+Alexander Askerov is a student at the Department of Probability Theory and Cybersecurity at RUDN University. His main interests include designing robots and simulating spacecraft flights. He is currently engaged in research in the field of Queuing Theory.
