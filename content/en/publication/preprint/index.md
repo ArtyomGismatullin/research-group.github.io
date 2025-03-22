@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "The first presentation of the project. Theoretical description of the problem. Description of the model."
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2025-03-22T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-03-22T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,26 +17,28 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: At the first stage of the project, a model of vibrations of one-dimensional chains of particles is investigated within the framework of mathematical modeling. A harmonic chain (a linear model with independent modes, standing waves, and dispersion relations) and an anharmonic chain (a nonlinear model of the Fermi-Pasta-Ulama problem) are theoretically described. In the latter, a nonlinear term is introduced, leading to the absence of thermalization of energy and quasi-periodic behavior of the system. The main scientific problem is to identify the conditions for the transition to thermal equilibrium, including the influence of the number of particles, the magnitude of the nonlinearity and the initial conditions. The Fourier transform is used for the analysis, which makes it possible to study the spectral distribution of energy. The results of the stage emphasize the fundamental difference between linear and nonlinear systems, and also raise questions for further study of the dynamics of complex oscillatory systems.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Linear (harmonic) and nonlinear (anharmonic) models of chain oscillations are investigated. The harmonic system retains independent modes, in the anharmonic (FPU) energy is not thermalized, quasi-periodicity is revealed. The main problem is the conditions of transition to thermal equilibrium.
 
 tags:
 - Source Themes
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
+- name: GitHub source
+  icon: github
+  icon_pack: fab
+  link: https://github.com/daBorovikov/study_2024-2025_mathmod
+url_pdf: https://disk.yandex.ru/i/9aYlEYLSYZ4FEw
+url_code: 'https://github.com/daBorovikov/study_2024-2025_mathmod/releases/tag/v1.3.1'
+#url_dataset: '#'
+#url_poster: '#'
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: 'https://disk.yandex.ru/i/1zCv4VZUZ0fr4g'
+url_video: 'https://rutube.ru/video/private/3bafd7b3ae7888790f9bf919f33856d3/?p=fdtwcqBuCpg3OX7mNvfFvA'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -61,8 +63,4 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
