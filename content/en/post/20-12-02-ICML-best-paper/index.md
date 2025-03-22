@@ -1,16 +1,35 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
-date: 2020-12-02
+title: 'RUDN University team took 1st place in the All-Russian competitive selection of scientific projects "Technologies for human health"'
+date: 2025-03-10
 image:
   focal_point: 'top'
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+The team of authors, led by Sergey Zyryanov, Head of the Department of General and Clinical Pharmacology at RUDN University, became the winner of the All-Russian competition of scientific projects "Technologies for Human Health".
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+The main objective of the Technologies for Human Health competition is to provide comprehensive support to research teams creating innovative biotechnologies to promote human health.
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+143 research teams from more than 50 regions of Russia took part in the competition with their research. The examination was conducted by the Russian Academy of Sciences and leading organizations of practical healthcare. Only 17 of the best works reached the final.
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+According to the results of the expert evaluation by the jury, the work "Personalized drug therapy in patients of extreme age groups with polymorbidity" by the staff of the RUDN University Department under the leadership of Sergey Zyryanov took 1st place in the nomination "Transition to personalized predictive and preventive medicine".
+
+The topic of the work: "Personalized drug therapy in patients of extreme age groups with polymorbidity"
+Elderly and senile patients, as well as premature newborns, are at risk of developing infectious diseases, therefore, approaches to therapy require an integrated and individualized approach. It is necessary not only to take into account the possibility of two or more diseases in a patient, but also to choose drugs and their optimal dosages with an emphasis on the peculiarities of metabolism in these groups of patients.
+
+The authors have shown the practical importance of a comprehensive method for optimizing antibiotic treatment, as well as for developing local recommendations for the treatment of infections that occur in hospitals.
+
+The results of the study were used in the creation of the federal guidelines "Diagnosis and antimicrobial therapy of infections caused by polyresistant strains of microorganisms" (updated in 2022). The developed algorithms for personalizing antibacterial therapy in critically ill patients can be used as the basis for medical decision support systems. The development and subsequent implementation of such systems in the clinical practice of intensive care units will help to increase the efficiency of doctors. This will reduce the burden associated with the need to perform complex calculations to determine the dose of antibiotics.
+
+Sergey Zyryanov, Deputy Chief Physician for Therapy at GBUZ GKB No. 24 DZM, Chief freelance clinical Research Specialist, Head of the Department of General and Clinical Pharmacology at RUDN University, Editor—in-Chief of the journal "Qualitative Clinical Practice", Deputy Director of the Clinical Research Department at the Moscow Center for Innovative Technologies in Healthcare.M.Sc., Professor.
+
+The author's team:
+
+Artyom Snitsar, Chief physician of GBUZ GKB No. 24 DZM, vascular surgeon.
+Marina Zhuravleva, Chief Freelance Clinical Pharmacologist, Deputy Director of the Center for Clinical Pharmacology of the Scientific Center for Expertise of Medical Devices of the Ministry of Health of the Russian Federation, MD, Professor.
+Tatiana Kameneva, clinical pharmacologist, Associate Professor, Candidate of Medical Sciences, M.P. Konchalovsky State Medical University.
+Irina Bondareva, Professor of the Department of General and Clinical Pharmacology, RUDN University, Doctor of Biological Sciences.
+Olga Butranova, Associate Professor of the Department of General and Clinical Pharmacology, RUDN University, Candidate of Medical Sciences.
+Gleb Putsman, Clinical pharmacologist at GBUZ GKB No. 24 DZM, Project Manager at the Moscow Center for Innovative Technologies in Healthcare, postgraduate student at the Department of General and Clinical Pharmacology, RUDN University.
+The Technologies for Human Health Contest was first organized with the support of the Government of the Russian Federation to support the priority areas of scientific and technological development of the Russian Federation, announced by President Vladimir Putin.
