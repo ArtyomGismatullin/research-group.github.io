@@ -1,28 +1,28 @@
 ---
-title: Example Event
+title: The Chain Fluctuations Project
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Presentation of the project
+#event_url: https://example.org
 
-location: Wowchemy HQ
+location: RUDN
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Ordzhonikidze St., 3
+  city: Moscow
+  region: Moscow
+  postcode: '115419'
+  country: Russia
 
 summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'Our team will be actively engaged in project activities on the topic of "Chain fluctuations" over the next six months. <br>We have to go through the following stages of project protection: <br> 1. The model. A presentation on a scientific problem. Theoretical description of the problem. <br><br> 2. Description of the model. Algorithms. Presentation on algorithms for solving the problem. <br> 3. Software packages. Description of the software implementation of the project. 4. Project protection. Collective discussion of the project result, self-assessment of activities.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2025-03-22T13:00:00Z'
+date_end: '2025-05-17T12:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-03-22T00:00:00Z'
 
 authors: []
 tags: []
@@ -54,10 +54,3 @@ slides:
 projects:
 ---
 
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.
