@@ -12,8 +12,8 @@ address:
   postcode: '115419'
   country: Russia
 
-summary: An example event.
-abstract: 'Our team will be actively engaged in project activities on the topic of "Chain fluctuations" over the next six months. <br>We have to go through the following stages of project protection: <br> 1. The model. A presentation on a scientific problem. Theoretical description of the problem. <br><br> 2. Description of the model. Algorithms. Presentation on algorithms for solving the problem. <br> 3. Software packages. Description of the software implementation of the project. 4. Project protection. Collective discussion of the project result, self-assessment of activities.'
+summary: Project activities
+abstract: 'Our team will be actively engaged in project activities on the topic of "Chain fluctuations" over the next six months. <br>We have to go through the following stages of project protection: <br> 1. The model. A presentation on a scientific problem. Theoretical description of the problem. <br> 2. Description of the model. Algorithms. Presentation on algorithms for solving the problem. <br> 3. Software packages. Description of the software implementation of the project. 4. Project protection. Collective discussion of the project result, self-assessment of activities.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
