@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Контакты
 date: 2022-10-24
 
 type: landing
@@ -9,23 +9,23 @@ sections:
     content:
       title: Contact
       text: |-
-        You can contact us to make the project even better.
+        Вы можете связаться с нами, чтобы сделать проект еще лучше.
       email: 1132226530@pfur.ru
       phone: 
       address:
-        street: Ordzhonikidze St., 3
-        city: Moscow
-        region: Moscow
+        street: ул. Орджоникидзе, д.3
+        city: Москва
+        region: Москва
         postcode: '115419'
-        country: Russian Federation
+        country: Россия
         country_code: Ru
       coordinates:
         latitude: '55.710702'
         longitude: '37.603747'
-      directions: Enter building and find us in 299 Office
+      directions: После того, как войдете в здание, пройдите в кабинет 299
       office_hours:
-        - 'Monday 10:30 to 12:00'
-        - 'Wednesday 09:00 to 10:30'
+        - 'Понедельник с 10:30 до 12:00'
+        - 'Среда с 09:00 до 10:30'
       appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
