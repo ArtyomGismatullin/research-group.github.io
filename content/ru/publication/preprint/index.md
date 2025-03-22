@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "Первое представление проекта. Теоретическое описание задачи. Описание модели."
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2025-03-22T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-03-22T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,26 +17,28 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: На первом этапе проекта исследуется модель колебаний одномерных цепочек частиц в рамках математического моделирования. Теоретически описаны гармоническая цепочка (линейная модель с независимыми модами, стоячими волнами и дисперсионными соотношениями) и ангармоническая цепочка (нелинейная модель задачи Ферми-Паста-Улама). В последней введён нелинейный член, приводящий к отсутствию термализации энергии и квазипериодическому поведению системы. Основная научная проблема — выявление условий перехода к тепловому равновесию, включая влияние числа частиц, величины нелинейности и начальных условий. Для анализа использовано преобразование Фурье, позволяющее изучать спектральное распределение энергии. Результаты этапа подчёркивают фундаментальное различие между линейными и нелинейными системами, а также ставят вопросы для дальнейшего исследования динамики сложных колебательных систем.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Исследованы линейные (гармонические) и нелинейные (ангармонические) модели колебаний цепочек. Гармоническая система сохраняет независимые моды, в ангармонической (FPU) энергия не термализуется, выявлена квазипериодичность. Основная проблема — условия перехода к тепловому равновесию.
 
 tags:
 - Source Themes
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+- name: GitHub source
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/daBorovikov/study_2024-2025_mathmod
+url_pdf: https://disk.yandex.ru/i/9aYlEYLSYZ4FEw
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
 url_slides: ''
 url_source: '#'
-url_video: '#'
+url_video: 'https://rutube.ru/video/private/3bafd7b3ae7888790f9bf919f33856d3/?p=fdtwcqBuCpg3OX7mNvfFvA'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
