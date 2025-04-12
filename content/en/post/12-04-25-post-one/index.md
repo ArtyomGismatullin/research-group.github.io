@@ -1,5 +1,5 @@
 ---
-title: Report on the first stage of the project
+title: Report of the first stage of the project
 date: 2025-03-22
 ---
 
