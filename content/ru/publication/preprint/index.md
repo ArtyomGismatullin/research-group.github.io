@@ -5,7 +5,7 @@ authors:
 date: "2025-03-22T00:00:00Z"
 doi: ""
 publishDate: "2025-03-22T00:00:00Z"
-publication_types:
+publication_types: 'article'
 publication: ""
 publication_short: ""
 abstract: |
