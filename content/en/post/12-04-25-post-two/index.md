@@ -1,6 +1,7 @@
 ---
 title: Report on the second stage of the project
 date: 2025-04-11
+url_pdf: 'https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2F%2B6JZgzZNwCMQwpL0fkeHyhtUlAzwad0jdVQiTnKdHkcK6ST5Axj2mbX0KfHOtZRKq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=report.pdf&nosw=1'
 ---
 
 In this news, we will talk about the implementation of the second stage of our project.
