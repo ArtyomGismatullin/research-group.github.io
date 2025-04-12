@@ -43,7 +43,6 @@ sections:
       text:
     design:
       columns: '1'
-      background:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
