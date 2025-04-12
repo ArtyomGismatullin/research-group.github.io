@@ -7,7 +7,7 @@ In this news, we will talk about the implementation of the second stage of our p
 
 Protection of the second stage:
 
-<iframe width="720" height="405" src="https://rutube.ru/play/embed/3bafd7b3ae7888790f9bf919f33856d3/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe width="720" height="405" src="https://rutube.ru/play/embed/323bd636ba9f2daa3eba7c696f1003d4/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 <!--more-->
 

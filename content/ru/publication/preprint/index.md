@@ -11,7 +11,7 @@ publication_short: ""
 abstract: |
   На первом этапе проекта исследуется модель колебаний одномерных цепочек частиц в рамках математического моделирования. Теоретически описаны гармоническая цепочка (линейная модель с независимыми модами, стоячими волнами и дисперсионными соотношениями) и ангармоническая цепочка (нелинейная модель задачи Ферми-Паста-Улама). В последней введён нелинейный член, приводящий к отсутствию термализации энергии и квазипериодическому поведению системы. Основная научная проблема — выявление условий перехода к тепловому равновесию, включая влияние числа частиц, величины нелинейности и начальных условий. Для анализа использовано преобразование Фурье, позволяющее изучать спектральное распределение энергии. Результаты этапа подчёркивают фундаментальное различие между линейными и нелинейными системами, а также ставят вопросы для дальнейшего исследования динамики сложных колебательных систем.
 
-  <iframe width="720" height="405" src="https://rutube.ru/play/embed/3bafd7b3ae7888790f9bf919f33856d3/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+  <iframe width="720" height="405" src="https://rutube.ru/play/embed/323bd636ba9f2daa3eba7c696f1003d4/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 summary: |
   Исследованы линейные (гармонические) и нелинейные (ангармонические) модели колебаний цепочек. Гармоническая система сохраняет независимые моды, в ангармонической (FPU) энергия не термализуется, выявлена квазипериодичность. Основная проблема — условия перехода к тепловому равновесию.
@@ -28,7 +28,7 @@ url_code: 'https://github.com/daBorovikov/study_2024-2025_mathmod/releases/tag/v
 url_project: ''
 url_slides: ''
 url_source: 'https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2Fb8Nq4N8dwaj%2FoqClBOxGaevtLqpQ4BsQlPlp6PTDqZRwJE%2FVhWQcp5XGYGI7CD4Eq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%B5%D0%B2_%D0%94_%D0%90_%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D1%84%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D0%B2_%D0%B8_%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9_%D0%BD%D0%B0_%D0%9F%D0%9A.pdf&nosw=1'
-url_video: 'https://rutube.ru/video/private/3bafd7b3ae7888790f9bf919f33856d3/?p=fdtwcqBuCpg3OX7mNvfFvA'
+url_video: 'https://rutube.ru/video/private/323bd636ba9f2daa3eba7c696f1003d4/?p=YUrzDpB0l5eOgbdXS0oiZQ'
 image:
 projects:
 - internal-project
