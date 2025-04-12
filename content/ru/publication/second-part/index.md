@@ -25,7 +25,7 @@ abstract: |
 
   Работа демонстрирует связь между теоретической механикой и вычислительными методами, актуальную для образовательных курсов и прикладных исследований.  
 
-  <iframe width="720" height="405" src="https://rutube.ru/play/embed/3bafd7b3ae7888790f9bf919f33856d3/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+  <iframe width="720" height="405" src="https://rutube.ru/play/embed/323bd636ba9f2daa3eba7c696f1003d4/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 summary: |
   Исследованы линейные (гармонические) и нелинейные (ангармонические) модели колебаний цепочек. Гармоническая система сохраняет независимые моды, в ангармонической (FPU) энергия не термализуется, выявлена квазипериодичность. Основная проблема — условия перехода к тепловому равновесию.
