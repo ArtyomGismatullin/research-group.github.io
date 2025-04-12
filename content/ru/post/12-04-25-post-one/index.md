@@ -9,7 +9,7 @@ date: 2025-03-22
 
 Защита первого этапа:
 
-https://rutube.ru/video/private/3bafd7b3ae7888790f9bf919f33856d3/?r=wd
+<iframe width="720" height="405" src="https://rutube.ru/play/embed/3bafd7b3ae7888790f9bf919f33856d3/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 Аннотация:
 
