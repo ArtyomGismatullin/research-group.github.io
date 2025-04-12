@@ -1,7 +1,7 @@
 ---
 title: Отчет по второму этапу проекта
 date: 2025-04-11
-url_pdf: 'https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2F%2B6JZgzZNwCMQwpL0fkeHyhtUlAzwad0jdVQiTnKdHkcK6ST5Axj2mbX0KfHOtZRKq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=report.pdf&nosw=1'
+url_pdf: 'https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2Freport-2.pdf&name=report-2.pdf&uid=641931395'
 ---
 
 В этой новости мы расскажем о выполнении второго этапа нашего проекта.
