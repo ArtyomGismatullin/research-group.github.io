@@ -9,23 +9,23 @@ publication_types: 'article'
 publication: ""
 publication_short: ""
 abstract: |
-The paper presents an algorithm for studying the oscillations of linear chains of coupled oscillators. Based on the matrix approach, a method for solving the system of equations of motion has been developed, including:
-1. Constructing a tridiagonal matrix of coefficients,
-2. Finding natural frequencies and vectors of normal oscillations,  
-  3. Restoration of the general solution as a superposition of modes.  
+   The paper presents an algorithm for studying the oscillations of linear chains of coupled oscillators. Based on the matrix approach, a method for solving the system of equations of motion has been developed, including:
+   1. Constructing a tridiagonal matrix of coefficients,
+   2. Finding natural frequencies and vectors of normal oscillations,  
+   3. Restoration of the general solution as a superposition of modes.  
 
-  Special attention is paid to:
-1. **Analytical constraints**: solutions for long chains (N > 3) exist only in special cases (homogeneous, periodic systems).  
-  2. **Numerical methods**: the algorithm includes solving systems of linear equations for initial conditions and phase analysis.  
-  3. **Of practical importance**: the models are applicable in solid state physics, radiophysics and other fields.  
+   Special attention is paid to:
+   1. **Analytical constraints**: solutions for long chains (N > 3) exist only in special cases (homogeneous, periodic systems).  
+   2. **Numerical methods**: the algorithm includes solving systems of linear equations for initial conditions and phase analysis.  
+   3. **Of practical importance**: the models are applicable in solid state physics, radiophysics and other fields.  
 
-  Results:
-- Expressions for the laws of mass motion through a superposition of normal oscillations are obtained.  
-  - A step-by-step algorithm has been developed that allows analyzing systems with arbitrary parameters (mass, stiffness).  
+   Results:
+   - Expressions for the laws of mass motion through a superposition of normal oscillations are obtained.  
+   - A step-by-step algorithm has been developed that allows analyzing systems with arbitrary parameters (mass, stiffness).  
 
-  The work demonstrates the connection between theoretical mechanics and computational methods, which is relevant for educational courses and applied research.  
+   The work demonstrates the connection between theoretical mechanics and computational methods, which is relevant for educational courses and applied research.  
 
-  <iframe width="720" height="405" src="https://rutube.ru/play/embed/323bd636ba9f2daa3eba7c696f1003d4/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+   <iframe width="720" height="405" src="https://rutube.ru/play/embed/323bd636ba9f2daa3eba7c696f1003d4/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 summary: |
   Linear (harmonic) and nonlinear (anharmonic) models of chain oscillations are investigated. The harmonic system retains independent modes, in the anharmonic (FPU) energy is not thermalized, quasi-periodicity is revealed. The main problem is the conditions of transition to thermal equilibrium.
