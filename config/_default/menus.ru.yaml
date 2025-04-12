@@ -10,9 +10,6 @@ main:
   - name: Команда
     url: people
     weight: 30
-  - name: События
-    url: event
-    weight: 40
   - name: Публикации
     url: publication
     weight: 50
