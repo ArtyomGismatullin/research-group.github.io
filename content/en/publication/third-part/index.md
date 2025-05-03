@@ -2,7 +2,7 @@
 title: "Stage 3. Description of the software implementation of the Oscillation Chain project"
 authors:
 - admin
-date: "2025-05-2T00:00:00Z"
+date: "2025-05-02T00:00:00Z"
 doi: ""
 publishDate: "2025-05-02T00:00:00Z"
 publication_types: 'article'

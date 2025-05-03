@@ -2,9 +2,9 @@
 title: "Этап 3. Описание программной реализации проекта Колебания цепочек"
 authors:
 - admin
-date: "2025-05-2T00:00:00Z"
+date: "2025-05-02T00:00:00Z"
 doi: ""
-publishDate: "2025-005-02T00:00:00Z"
+publishDate: "2025-05-02T00:00:00Z"
 publication_types: 'article'
 publication: ""
 publication_short: ""
