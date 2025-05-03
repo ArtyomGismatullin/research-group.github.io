@@ -9,25 +9,27 @@ publication_types: 'article'
 publication: ""
 publication_short: ""
 abstract: |
-   In this paper, we consider the development and software implementation of a method for modeling oscillatory chains in the Julia language. The aim of the study was to study the dynamics of a three-massive system consisting of three links with spring stiffness (k=[1,1,1,1]) and mass(m=[1,2,1]), as well as to visualize its main characteristics: displacements, velocities, phase trajectories and spectral densities of vibrations 
+
+   In this paper, we consider the development and software implementation of a method for modeling oscillatory chains in the Julia language. The aim of the study was to study the dynamics of a three-massive system consisting of three links with spring stiffness k = [1,1,1,1] and mass m= [1,2,1], as well as to visualize its main characteristics: displacements, velocities, phase trajectories and spectral densities of vibrations.
 
    The main stages of the work include:
-   1. Construction of the stiffness matrix Ω and calculation of its eigenvalues and vectors.  
-   2. Solving equations using normal coordinates to determine the amplitudes(C) and phases(alpha) of each normal oscillation.  
-   3. Calculation of time dependencies of offsets \(X(t)\) and speeds \(V(t)\) on a uniform grid of \(2^{13}\) points in the interval \(t\in[0.80]\).  
+
+   1. Construction of the Omega stiffness matrix and calculation of its eigenvalues and vectors.
+   2. Solving equations in normal coordinates to determine the amplitudes C and phases alpha of each normal oscillation.
+   3. Calculation of time dependences of displacements X(t) and velocities V(t) on a uniform grid of 2^13 points in the interval t ∈ [0, 80].
    4. Visualization of the received data:
-   - Graphs of displacements and velocities as functions of time.  
-   - Phase trajectories for each of the three bodies .  
-   - Spectral density of oscillations using FFT. 
+    - graphs of displacements X(t) and velocities V(t) as functions of time;
+    - phase trajectories for each of the three bodies;
+    - spectral density of oscillations using FFT.
 
    The results obtained are in good agreement with the theoretical predictions of normal oscillation modes: the amplitude-phase relations and spectral peaks visible on the graphs correspond to the natural frequencies of the system. This confirms the correctness of the developed algorithm and the implemented software package.
 
-   **Keywords:** oscillatory chains, normal oscillations, eigenvalues, phase trajectory, spectral density, Julia.
+   **Keywords:** oscillatory chains, normal oscillations, eigenvalues, phase trajectory, spectral density, Julia.    
 
    <iframe width="720" height="405" src="https://rutube.ru/play/embed/323bd636ba9f2daa3eba7c696f1003d4/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 summary: |
-  This paper presents a numerical method for modeling a three-mass oscillatory chain in the Julia language. The study includes constructing a stiffness matrix, calculating its eigenvalues and vectors, as well as solving for the amplitudes and phases of normal modes. The time dependences of the displacements and velocities in the interval \(t\in [0.80]\) with \(2^{13}\) points were calculated. To analyze the dynamics of the system, time series graphs, phase trajectories, and spectral densities are constructed using the fast Fourier transform. The obtained natural frequencies and forms of normal oscillations are in good agreement with the theory, which confirms the correctness of the developed algorithm.
+  This paper presents a numerical method for modeling a three-massive oscillatory chain in the Julia language. The study includes constructing a stiffness matrix, calculating its eigenvalues and vectors, as well as solving for the amplitudes and phases of normal modes. The time dependences of the displacements and velocities in the interval \(t\in [0.80]\) with \(2^{13}\) points were calculated. To analyze the dynamics of the system, time series graphs, phase trajectories, and spectral densities are constructed using the fast Fourier transform. The obtained natural frequencies and forms of normal oscillations are in good agreement with the theory, which confirms the correctness of the developed algorithm.
 tags:
 - Source Themes
 featured: false
@@ -50,114 +52,98 @@ slides: example
 ---
 
 # Content  
-1. [Introduction](#1-Introduction)  
-2. [Equations of motion](#2-equations of motion)
-3. [General solution](#3-general solution)
-4. [Algorithm of solution](#4-algorithm of solution)
-5. [Conclusion](#5-conclusion)
-6. [References](#6-references)  
+1. [Introduction](#1-introduction)
+2. [Task statement](#2-task statement)
+3. [Methodology](#3-Methodology)
+4. [Implementation description](#4-Implementation description)
+5. [Results](#5-Results)
+6. [Conclusion](#6-conclusion)  
+7. [List of references](#7-list-of-references)  
+
+## 1. Introduction
+
+Oscillatory chains of connected masses and springs are a classical model in mechanics and solid state physics. Their study makes it possible to understand the properties of normal modes, dispersion, and resonance phenomena [1-3]. The aim of the work is to develop a software package for numerical modeling and visualization of the dynamics of a three-massive chain.
 
 ---
 
-## 1. Introduction  
-Linear chain models [1], consisting of a finite or infinite number of coupled oscillators, are used in:  
-- Solid state physics,  
-- Continuum Physics,
-- Chemical Physics,  
-- Radiophysics [2].  
+## 2. Setting the task
 
-Example: a system of three masses m(1), m(2), m(3) connected by springs of stiffness k simulates three electrical circuits [1]. Such models allow us to study:  
-- Wavelength,  
-- Group/phase velocity [3],  
-- The variance.  
+1. System parameters:
+- Number of masses N = 3
+- Masses m = [1, 2, 1]
+- Spring stiffness k = [1, 1, 1, 1]
+- Initial displacements R0 = [-0.2, 0, -0.3]
+- Initial velocities v0 = [1, -3, 0]
 
-### Features of analytical solutions  
-For chains with N > 3, solutions exist only in special cases [2]:
-1. **Homogeneous chain**:
-k(0) = k(1) = ... = k(N-1),
-m(0) = m(1) = ... = m(N-1).
-2. **Periodic rigidity**:  
-   k(0) = k(2) = ..., k(1)=k(3) = ...,
-m(i) = const.
-3. **Mass alternation**:
-k(i) = const,
-m(0) = m(2) =..., m(1) = m(3) = ....  
+2. Requirements:  
+   - Construct a tridiagonal matrix Ω  
+   - Find the eigenvalues of ωα^2 and the vectors Aa
+- Determine the amplitudes Ca and phases φα
+- Calculate Xi(t) and ẊI(t) on a grid of 2^13 points on t ∈ [0, 80]  
+   - Visualize the key result — the time dependence of the displacement of the second body
 
 ---
 
-## 2. Equations of motion  
-The system of equations for masses:
-``
-m(0)*x"(0) = -k(0)*x(0) - k(1)*(x(0)-x(1))
-m(i)*x"(i) = -k(i)*(x(i)-x(i-1)) - k(i+1)*(x(i)-x(i+1)), i=1,...,N-2
-m(N-1)*x"(N-1) = -k(N-1)*(x(N-1)-x(N-2)) - k(N)*x(N-1)  
-```
+## 3. Methodology
 
-In matrix form:
-``
-B * A = 0  
-``
-where **B** is a tridiagonal matrix:
-- B(0,0) = -w^2 + w(00)^2 + w(10)^2
-- B(i,i) = -w^2 + w(ii)^2 +w(i+1,i)^2  
-- B(i,i±1) = -ω(ii)^2 or -ω(i+1,i)^2  
+### 3.1 Stiffness matrix Ω  
+The elements of the Ω matrix are given as:  
+Ω(i,i) = (k_i + k_{i+1}) / m_i  
+Ω(i,i+1) = -k_{i+1} / m_i  
+Ω(i,i-1) = -k_i / m_i
 
-**Characteristic equation**:
-``
-det(B) = 0 → ω(ij)^2 - ω^2 =0  
-```
+### 3.2 Eigenvalues and vectors  
+The problem is solved  
+Ω * Aα = ωα^2 * Aα
 
----
+### 3.3 Amplitudes and phases  
+The system of equations for vector coefficients C1 and C2 in the initial state:
+C1 * A = R0  
+C2 * A = Ẋ(0)  
+Then  
+Cα = sqrt(C1_α^2 + C2_α^2)  
+φα = atan2(C2_α, C1_α)
 
-## 3. The general solution  
-The solution of the system is a superposition of normal oscillations:
-`
-x(t) = Σ C(α)*A(α)*cos(ω(α)*t + φ(α))  
-```
-Velocities:
-``
-x'(t) = -Σ C(α)*ω(α)*A(α)*sin(ω(α)*t + φ(α))  
-```
-
-**Initial conditions**:
-``
-x(0)= Σ C(α)*A(α)*cos(φ(α))
-x'(0) = -Σ C(α)*ω(α)*A(α)*sin(φ(α))  
-```
-
-The phases φ(α) are calculated using:
-``
-φ(α) = arctan(C(α)/Cv(α))
-``
-taking into account the quadrants (see the rules for angle selection [3]).
+### 3.4 The Timing Grid  
+t_j = (j - 1) / (2^13 - 1) * 80,  j = 1,…,2^13  
+And the laws of motion:
+Xi(t) = Σα Ca * Aa(i) * cos(ωα * t + φα)  
+Ẋi(t) = -Σα Cα * ωα * Aα(i) * sin(ωα * t + φα)
 
 ---
 
-## 4. The solution algorithm  
-1. Set N, m(i), k(i).
-2. Construct the matrix B.  
-3. Find the eigenvalues of ω(α)^2 and the vectors A(α).
-4. Solve the systems:
+## 4. Description of the implementation
+
+The program for Julia includes:  
+- Initialization of N, m, k, R0, v0  
+- Construction of the W matrix  
+- Calculation of the eigenvalues of ωα^2 and the vectors Α via eigen(Ω)  
+- Solution for C1 and C2, calculation of Ca and φa  
+- Generation of the time series Xi(t) and ẊI(t)  
+- Plotting the displacement of the second body
+
+---
+
+## 5. Results
+
+** Time dependence of displacement of bodies**
+![Displacement of the second body in time](graph_1.png)
+The graph shows how the displacement of the three links changes over time t ∈ [0, 80]. Characteristic fluctuations with a complex character are visible, due to the superposition of three normal modes.
+
+---
+
+##6. Conclusion
+
+The developed algorithm and its implementation in the Julia language make it possible to effectively study the dynamics of an oscillatory system. The simulation results correspond to theoretical predictions, which confirms the correctness of the approach. Possible expansion directions:
+- N > 3 masses  
+- consideration of damping and external influences  
+- modeling of uneven and periodic structures
+
+---
+
+## 7. List of literature
+
+1. D. A. Medvedev and others. *Simulation of physical processes and phenomena on a PC*. Novosibirsk: NSU, 2010  
+2. Getmanova E. G., Kostarev D. B. *Resonant phenomena in oscillator systems*, 2001  
+3. Andronov A. A., Witt A. A. *Theory of oscillations*. Moscow: FIZMATLIT, 1981
 ``
-   M*C1 = x(0)  
-   Mv*C2 = x'(0)  
-   ```  
-5. Calculate C(α) = sqrt(C1(α)^2 + C2(α)^2).  
-6. Determine the phases φ(α).
-7. Write down the laws of motion.  
-
----
-
-## 5. Conclusion  
-An algorithm for solving the problem of chain oscillations has been developed, including:  
-- Building a matrix model,  
-- Natural frequency analysis,  
-- Restoration of the laws of motion through the superposition of modes.  
-
----
-
-## 6. The list of references  
-1. D.A. Medvedev and others. *Modeling of physical processes*. Novosibirsk: NSU, 2010.
-2. Getmanova E.G., Kostarev D.B. *Resonant phenomena in oscillator systems*. 2001.
-3. Andronov A.A., Witt A.A. *Theory of oscillations*. Moscow: FIZMATLIT, 1981.  
-```
