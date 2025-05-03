@@ -8,7 +8,7 @@ In this news, we will talk about the implementation of the third stage of our pr
 
 Protection of the third stage:
 
-<iframe width="720" height="405" src="https://rutube.ru/play/embed/323bd636ba9f2daa3eba7c696f1003d4/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe width="720" height="405" src="https://rutube.ru/play/embed/c23ce537d2aaf99c68723148891e6ccf/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 <!--more-->
 
