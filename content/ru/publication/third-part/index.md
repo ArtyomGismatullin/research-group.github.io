@@ -38,7 +38,7 @@ links:
   icon: github
   icon_pack: fab
   link: https://github.com/daBorovikov/study_2024-2025_mathmod
-url_pdf: 'https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2Freport-2.pdf&name=report-2.pdf&uid=641931395'
+url_pdf: 'https://disk.yandex.ru/i/0EzTp67-MOxFhQ'
 url_code: 'https://github.com/daBorovikov/study_2024-2025_mathmod/releases/tag/v1.3.1'
 url_project: ''
 url_slides: ''
