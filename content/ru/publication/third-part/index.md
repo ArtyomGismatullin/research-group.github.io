@@ -84,36 +84,36 @@ slides: example
 
 ## 3. Методология
 
-1. **Матрица жёсткости $\Omega$**  
-   Составляется трёхдиагональная матрица:
-   $$
-   \Omega_{ii} = \frac{k_i}{m_i} + \frac{k_{i+1}}{m_i}, \quad
-   \Omega_{i, i \pm 1} = -\frac{k_{i+1}}{m_i}
-   $$
+1. **Матрица жёсткости Ω**  
+   Составляется трёхдиагональная матрица на основе выражений  
+   \[
+   Ω_{ii} = \frac{k_i}{m_i} + \frac{k_{i+1}}{m_i},\quad
+   Ω_{i,i\pm1} = -\frac{k_{i+1}}{m_i}.
+   \]
 
 2. **Нормальные моды**  
-   Решается задача:
-   $$
-   \Omega A_\alpha = \omega_\alpha^2 A_\alpha
-   $$
+   Решение задачи  
+   \[
+   Ω\,A_\alpha = \omega_\alpha^2\,A_\alpha
+   \]  
+   даёт собственные частоты \(\omega_\alpha\) и модовые векторы \(A_\alpha\).
 
 3. **Амплитуды и фазы**  
-   Используются начальные условия:
-   $$
-   X(0) = \sum_\alpha C_\alpha A_\alpha \cos\varphi_\alpha, \quad
-   \dot X(0) = -\sum_\alpha C_\alpha \omega_\alpha A_\alpha \sin\varphi_\alpha
-   $$
-   Откуда:
-   $$
-   C_\alpha = \sqrt{C_{1,\alpha}^2 + C_{2,\alpha}^2}, \quad
-   \varphi_\alpha = \text{atan2}(C_{2,\alpha}, C_{1,\alpha})
-   $$
+   По начальным условиям решения  
+   \[
+   X(0) = \sum_\alpha C_\alpha A_\alpha \cos\varphi_\alpha,\quad
+   \dot X(0) = -\sum_\alpha C_\alpha\omega_\alpha A_\alpha \sin\varphi_\alpha
+   \]  
+   вычисляются координаты векторов \(C_1, C_2\) и далее  
+   \(\displaystyle C_\alpha = \sqrt{C_{1,\alpha}^2 + C_{2,\alpha}^2}\),  
+   \(\varphi_\alpha = \operatorname{atan2}(C_{2,\alpha},C_{1,\alpha})\).
 
 4. **Численное интегрирование**  
-   Временная сетка:
-   $$
-   t_j = \frac{j-1}{2^{13}-1} \cdot 80, \quad j = 1, \dots, 2^{13}
-   $$
+   Смещения и скорости возводятся на временной сетке  
+   \[
+   t_j = \frac{j-1}{2^{13}-1}\times 80,\quad j=1,\dots,2^{13},
+   \]  
+   по формулам суперпозиции нормальных мод.
 
 ---
 
