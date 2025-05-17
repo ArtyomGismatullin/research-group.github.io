@@ -1,7 +1,7 @@
 ---
-title: Отчет по третьему этапу проекта
+title: Отчет по четвертому этапу проекта
 date: 2025-05-16
-url_pdf: 'https://disk.yandex.ru/i/0EzTp67-MOxFhQ'
+url_pdf: 'https://disk.yandex.ru/i/VXuhQ8-fUyCauw'
 ---
 
 В этой новости мы расскажем о выполнении четвертого этапа нашего проекта.

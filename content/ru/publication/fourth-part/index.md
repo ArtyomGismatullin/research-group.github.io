@@ -37,8 +37,8 @@ links:
 - name: GitHub source
   icon: github
   icon_pack: fab
-  link: https://github.com/daBorovikov/study_2024-2025_mathmod
-url_pdf: 'https://disk.yandex.ru/i/0EzTp67-MOxFhQ'
+  link: https://github.com/aeaskerov/study_2024-2025_mathmod/releases/tag/stage4
+url_pdf: 'https://disk.yandex.ru/i/VXuhQ8-fUyCauw'
 url_code: 'https://github.com/daBorovikov/study_2024-2025_mathmod/releases/tag/v1.3.1'
 url_project: ''
 url_slides: ''
