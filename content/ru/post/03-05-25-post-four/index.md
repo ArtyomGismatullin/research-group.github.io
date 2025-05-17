@@ -8,7 +8,7 @@ url_pdf: 'https://disk.yandex.ru/i/VXuhQ8-fUyCauw'
 
 Защита четвертого этапа:
 
-<iframe width="720" height="405" src="https://rutube.ru/play/embed/c23ce537d2aaf99c68723148891e6ccf/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe width="720" height="405" src="https://rutube.ru/play/embed/411687db7cd2300cc75cf48204bd1b44/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 <!--more-->
 

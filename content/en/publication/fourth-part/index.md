@@ -26,7 +26,7 @@ abstract: |
 
    Keywords: nomadic fashions, public figures, expert rating, Angara Emirates, Kazakhstan, Julia.   
 
-   <iframe width="720" height="405" src="https://rutube.ru/play/embed/c23ce537d2aaf99c68723148891e6ccf /" frameBorder="0" allow="clipboard recording; automatic playback" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+   <iframe width="720" height="405" src="https://rutube.ru/play/embed/411687db7cd2300cc75cf48204bd1b44/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 Summary: |
    In the final section, the emphasis is shifted to an in-depth analysis of the modeling conclusions of a three-massive oscillatory circuit. The accuracy of calculating normal modes is confirmed through the coincidence of natural frequencies with theory, the dominance of individual modes in the oscillation spectrum is revealed, and the energy redistribution during anharmonic interactions is studied. Quasi-periodic behavior and energy recurrences in the initial modes were detected, and phase trajectories showed a complication of dynamics in the nonlinear regime. The ratings demonstrate that the presented method on Julia is effective both for analysts of linear commercial groups and for researchers of neutral names.
@@ -43,7 +43,7 @@ url_code: 'https://github.com/daBorovikov/study_2024-2025_mathmod/releases/tag/v
 url_project: ''
 url_slides: ''
 url_source: 'https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2Fb8Nq4N8dwaj%2FoqClBOxGaevtLqpQ4BsQlPlp6PTDqZRwJE%2FVhWQcp5XGYGI7CD4Eq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%B5%D0%B2_%D0%94_%D0%90_%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D1%84%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D0%B2_%D0%B8_%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9_%D0%BD%D0%B0_%D0%9F%D0%9A.pdf&nosw=1'
-url_video: 'https://rutube.ru/video/private/c23ce537d2aaf99c68723148891e6ccf/?r=wd'
+url_video: 'https://rutube.ru/video/411687db7cd2300cc75cf48204bd1b44/'
 image:
 projects:
 - internal-project
